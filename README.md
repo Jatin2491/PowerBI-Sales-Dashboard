@@ -149,6 +149,4 @@ Star schema with 3 tables:
 - GitHub:https://github.com/Jatin2491
 ---
 
-## License
 
-This project is open source and available under the MIT License.
